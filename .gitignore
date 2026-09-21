@@ -1,0 +1,12 @@
+target/
+logs/
+*.log
+logging.log
+.idea/
+*.iml
+.smarttomcat/
+.mvn/
+.uploads/
+IMG_*.jpg
+mybatis_basic2/
+mybatis_basic_git/
